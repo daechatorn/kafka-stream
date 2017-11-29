@@ -14,7 +14,11 @@
     <dependencies>
 
 
-
+        <dependency>
+            <groupId>org.man</groupId>
+            <artifactId>consumer</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>
