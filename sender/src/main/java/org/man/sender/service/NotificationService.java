@@ -2,7 +2,7 @@ package org.man.sender.service;
 
 import org.man.sender.model.request.NotificationRequest;
 import org.man.sender.model.response.NotificationResponse;
-import org.man.sender.stream.MyStreamChannel;
+import org.man.sender.service.stream.MyStreamChannel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.EnableBinding;
 import org.springframework.cloud.stream.messaging.Source;

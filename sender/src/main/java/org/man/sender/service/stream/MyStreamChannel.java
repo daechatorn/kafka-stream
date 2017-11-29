@@ -1,4 +1,4 @@
-package org.man.sender.stream;
+package org.man.sender.service.stream;
 
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;
